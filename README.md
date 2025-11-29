@@ -45,7 +45,7 @@ realmind/
 └── README.md
 
 ⚙️ Installation
-git clone https://github.com/virtualfactory-ai/realmind.git
+git clone https://github.com/mumbai-hacks-tiru/tiru94397.git
 cd realmind
 npm install
 npm run dev
