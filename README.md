@@ -45,7 +45,7 @@ realmind/
 └── README.md
 
 ⚙️ Installation
-git clone https://github.com/mumbai-hacks/tiru94397.git
+git clone https://github.com/tiru94397/mumbai-hacks
 cd realmind
 npm install
 npm run dev
